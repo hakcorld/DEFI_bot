@@ -31,8 +31,3 @@ Follow the commands
    ```sh
    python DeFiTranscation.py
    ```
-3. Enter Token address for a Trade
-4. Enter what type of Target to Hit Up, Down or UpDown
-5. Enter your Target Price
-6. Wait for target to Hit
-7. You'll get an alert system.beep
