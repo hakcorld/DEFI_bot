@@ -36,4 +36,3 @@ Follow the commands
 5. Enter your Target Price
 6. Wait for target to Hit
 7. You'll get an alert system.beep
-8. Option to how much coin you want to sell ( Or you simply can Automate it, by changing bit code as explained in the Youtube Tutorial
